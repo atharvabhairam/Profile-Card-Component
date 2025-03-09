@@ -14,16 +14,9 @@ This project is a **Profile Card Component** built as part of a challenge from [
 
 You can view the live demo of this project [here](https://celadon-marigold-f166e5.netlify.app/) 
 
-## Screenshots
+## Screenshot
 
 ![image](https://github.com/user-attachments/assets/5a17591b-98ac-4504-ac5e-c85d168c26ec)
-
-
-### Desktop View
-![Desktop View](./screenshots/desktop-view.png)
-
-### Mobile View
-![Mobile View](./screenshots/mobile-view.png)
 
 ## Files
 
